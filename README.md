@@ -1,5 +1,5 @@
 ### 👋 Que tal, como están 👋
-### Me llamo Bruno Ernesto Zamorano Cansino, estudie en la Univerisdad Autonoma Metropolitana Unidad Azcapotzalco la carrera en Ingeniería en Computación.
+### Me llamo Bruno Ernesto Zamorano Cansino, estudie en la Univerisdad Autonoma Metropolitana Unidad Azcapotzalco, la carrera en Ingeniería en Computación.
 ### Programo en el lenguaje de progamacion en Java a nivel intermedio, se programar en los lenguajes en C, C++ y C#. 
 ### Actualmente estoy aprendiendo a programar en  el lenguaje de programacion en Python .
 ### Me pueden contactar por medio de mi correo electronico el cual es: zamoranobruno00@gmail.com 
