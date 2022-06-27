@@ -1,7 +1,7 @@
 ### 👋 Que tal, como están 👋
 ### Me llamo Bruno Ernesto Zamorano Cansino, estudio en la Univerisdad Autonoma Metropolitana Unidad Azcapotzalco, estoy en el ultimo trimestre de la carrera en Ingeniería en Computación.
 ### Programo en el lenguaje de progamacion en Java a nivel intermedio, se programar en los lenguajes en C, C++ y C#. 
-### Actualmente estoy aprendiendo a programar en  el lenguaje de programacion en Python utilizando los comandos de la terminal del Sistema Operativo Linux.
+### Actualmente estoy aprendiendo a programar en  el lenguaje de programacion en Python .
 ### Me pueden contactar por medio de mi correo electronico el cual es: zamoranobruno00@gmail.com 
 ### **⚡ Dato curioso ⚡**
 ### Me gusta investigar temas relacionados con los Fractales, como entender los comportamientos de como se generan y ver la geometría con la que se originan estos cuerpos. 
